@@ -5,12 +5,6 @@ mysql
 wordpress
 whyour/qinglong:latest
 whyour/qinglong:debian
-
-
-
-docker.elastic.co/eck/eck-operator
-docker.elastic.co/elasticsearch/elasticsearch
-docker.elastic.co/kibana/kibana
 adoptopenjdk/openjdk11
 amambadev/jenkins
 amambadev/jenkins-agent-base
